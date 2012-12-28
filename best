@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "<Best App Ever>",
+    "description": "<Industry leading SEO software>",
+    "version": "0.1",
+    "icons": {
+        "128": "distilled-small.png"
+    },
+    "app": {
+        "launch": {
+            "web_url": "<https://github.com/chivosays/Best/new/master"
+        }
+    }
+}
